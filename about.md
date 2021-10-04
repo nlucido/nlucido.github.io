@@ -11,4 +11,5 @@ This journey of mine is fueled by the ever-evolving world of Data Science and th
 ### Contact me
 
 [nrlucido@gmail.com](mailto:nrlucido@gmail.com)
-[www.linkedin.com/in/nlucido]
+
+www.linkedin.com/in/nlucido
