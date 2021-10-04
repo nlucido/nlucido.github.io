@@ -8,7 +8,7 @@ Born & raised Texan, husband, father, motorsports lover, and Data Scientist. I a
 
 This journey of mine is fueled by the ever-evolving world of Data Science and the amazing connections I’m making along the way. By leveraging my strong interpersonal and technical skill sets, I look forward to solving the future’s challenges with the power of data driven solutions.
 
-### Contact me
+### Let's Connect!
 
-[nrlucido@gmail.com](mailto:nrlucido@gmail.com)
-www.linkedin.com/in/nlucido
+- [nrlucido@gmail.com](mailto:nrlucido@gmail.com)
+- www.linkedin.com/in/nlucido
